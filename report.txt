@@ -1,0 +1,37 @@
+📅 2026년 09월 07일
+서울 날씨: Overcast  | 현재 19°C | 최저 19°C | 최고 30°C | 강수량 0.0mm | 습도 65%
+
+📊 주요 금융 지표
+- USD/KRW: 1,346.56 원
+- KOSPI: 6,687.21 (+1.64%)
+- NASDAQ: 26,506.99 (-0.29%)
+- Google: 338.46 (-1.11%)
+- Apple: 319.97 (-2.51%)
+- Microsoft: 499.70 (-2.04%)
+- QQQM: 296.07 (+0.19%)
+
+🇰🇷 국내 증시
+- <a href="https://www.munhwa.com/article/11615217?ref=naver">원화 강세에 코스피 탄력받나…外人 사흘간 4.7조 ‘사자’</a>
+- <a href="https://view.asiae.co.kr/article/2026090807572723848">[굿모닝 증시]美 금리 주목…코스피, 단기 급등에 따른 숨고르기 전망</a>
+- <a href="https://www.topstarnews.net/news/articleView.html?idxno=16186205">반도체 ETF 두 자릿수 뛰어도 개미는 팔았다…美금리 5%에 &#x27;안정형&#x27; 이동</a>
+- <a href="https://www.smartbizn.com/news/articleView.html?idxno=153270">뉴욕증시, 노동절 휴장 속 물가 대기···중동 충돌에 유가는 6주 최고</a>
+- <a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4433808">美슈퍼리치들, 금리·변동성에 주식 비중 줄여…현금·대체투자로 이동</a>
+- <a href="https://www.newdaily.co.kr/site/data/html/2026/09/08/2026090800015.html">나이키, 18년 만에 S&amp;P 100서 퇴출 … 주가 78% 급락에 中 부진까지</a>
+- <a href="http://www.newsian.co.kr/news/articleView.html?idxno=94941">달러·엔 154엔대로 급락…&#x27;엔캐리 청산&#x27; 공포 다시 고개</a>
+
+🇺🇸 해외 증시
+- <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv0gF8QVVfeXFMTmV2b1B1TWM5MUR6SlFJOGFHa2g5UFpreXpJZFlqeE9qbVlpSm1Oa3pFaGZ2U21Yd0lxVDlWNmRrSzBINXZ2emZIVHFvSnVLSzg5Y050dUxVUUhLcjVaTjJDdFIzSFhWaTViVThaVUtqVmxZMmFvZHB1UlVRcQ?oc=5">투자자들의 중동 분쟁 재개 평가 속, 유럽 증시 혼조 마감, 아시아-태평양 시장 상승.</a>
+- <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxONnVmdkRaNDVMaV96YWJ1eGMzRlFGUTRMeDVfSlotMHFRaGJlN2VMTFpGVzQtM2JDVndXazFpY3VVajNBdG9BemQzZ0xKV1d2ejJkVVAzbWlOUGQwLVB1dU0tWnNuM2t1WEhaSlBwbDlmd1BDM3BaUU1od242RXhEanBPeEJJUF9LQS1GVzZwQTV3Q0c3bkVMN3lLbDhHU0tPY2xYc1p6NWRMMVBKTTF2dHJqNm8wR0NEMllEWkpLN0hmMEU1Y1ZhXzlQNDRYemM?oc=5">다우 선물 하락, 유가 상승; 애플과 인플레이션 전망 속 엔비디아, 마이크론, 샌디스크 매수 신호.</a>
+- <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUQ2NzNpYUJSQ0VJNjh6b3M2cHhYejRab18wRXZFakdmNWl0RFZxYjFaUUVmbmNrZUxRQ3Zza1RoRkdDNUUxUGg1TzdlNWVSYjVjSUdYbkg4aWZIX1ZBZV9XNTVzMV9pYkhaSHBWdDVWanhOa2M2ZEVadXBFeWFRTU5ZY0F3WW1lSjkySGNWRWlxclE2OWNSc2x5UVEyZktFcG5R?oc=5">미국의 초고액 자산가들, 주식 팔고 사상 최대 규모 현금 비축. 그들의 부는 대신 어디로 향하는가?</a>
+- <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnRrUEprUnd3bEJNUkEzUThYMGVzN3YtTWFJUlp3VjZLZmIzSHFkUEFtRXJzMldNMUd0UGZvRnFEMkl5REFRRFFhSWMzMVFIalpuU3hIOUtUWVBfY0dncEh1b2IyVGREZ3ZrYWNJblowVEFJd2NhcFZBVmpLd0lnR3VpX3pfZTBEaGJfZ1pHeVVxNXVXMkhiZjIzNjgtNmR0VEZJcUJhbDkybGF0VzBwMG83X0drZkRZb2FhczRtRDI0UQ?oc=5">9월 미국 증시 전망: 위험 구간에서 포트폴리오를 어떻게 구성할 것인가.</a>
+- <a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5">연준 금리 인상 임박에 트럼프, 워시에 압박 수위 높여.</a>
+- <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5">트럼프, 연준이 금리 인하 안 하면 일부 국가와의 무역 중단할 것.</a>
+- <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5">주식 투자자들, 연준으로부터 경고 받았다. 역사는 다음에 이런 일이 일어날 것이라고 말한다.</a>
+
+📰 정치/사회
+- <a href="https://news.skbroadband.com/news/articleView.html?idxno=237227">&quot;무임수송 손실 7천754억&quot;…국비 지원 촉구</a>
+- <a href="http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217671">선관위 특검 &quot;정치적 논란에 흔들리지 않을 것&quot; 노태악 수사 여부 관심</a>
+- <a href="https://www.etoday.co.kr/news/view/2622840">靑 “김승원·용혜인, 인사시스템 거쳐 지명…인사청문회 거쳐야”</a>
+- <a href="https://www.tjb.co.kr/news05/bodo/view/id/103318">北, 한미일 &#x27;프리덤에지&#x27; 훈련 정조준 &quot;대응조치 취할 것&quot;</a>
+- <a href="http://www.newstown.co.kr/news/articleView.html?idxno=715026">IAEA &quot;한국, 핵 추진 잠수함 도입을 위한 협의 의향 통보&quot;</a>
+- <a href="https://biz.heraldcorp.com/article/10865662?ref=naver">고령자 계속고용 지원 사업장 3년 새 25%↓…50인 미만은 33% 급감</a>

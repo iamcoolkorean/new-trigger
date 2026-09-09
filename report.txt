@@ -1,37 +1,37 @@
-📅 2026년 09월 08일
-서울 날씨: Overcast  | 현재 19°C | 최저 18°C | 최고 23°C | 강수량 0.0mm | 습도 59%
+📅 2026년 09월 09일
+서울 날씨: Cloudy  | 현재 15°C | 최저 15°C | 최고 25°C | 강수량 0.0mm | 습도 60%
 
 📊 주요 금융 지표
-- USD/KRW: 1,345.38 원
-- KOSPI: 6,995.39 (+4.61%)
-- NASDAQ: 26,421.41 (-0.32%)
-- Google: 338.36 (-0.03%)
-- Apple: 316.22 (-1.17%)
-- Microsoft: 493.95 (-1.15%)
-- QQQM: 295.76 (-0.10%)
+- USD/KRW: 1,340.86 원
+- KOSPI: 6,954.52 (-0.58%)
+- NASDAQ: 26,253.34 (-0.64%)
+- Google: 330.65 (-2.28%)
+- Apple: 315.34 (-0.28%)
+- Microsoft: 491.65 (-0.47%)
+- QQQM: 294.97 (-0.27%)
 
 🇰🇷 국내 증시
-- <a href="https://www.etoday.co.kr/news/view/2623333">[증시키워드] &#x27;미스트랄 AI·ASML 동맹&#x27; 삼성전자...한화오션 &#x27;태국 호위...</a>
-- <a href="https://www.etoday.co.kr/news/view/2623326">국제유가 불확실성에 안전자산 선호 심화⋯&quot;1340원 중반 회복&quot; [환율전망...</a>
-- <a href="https://www.mk.co.kr/article/12147792">“레버리지때문에 한국 증시 바닥쳤다”…한달만에 39% 급락, 亞 곳곳서...</a>
-- <a href="https://biz.heraldcorp.com/article/10866985?ref=naver">다시 고조되는 중동 리스크…뉴욕증시 3대 지수 일제 하락·국제유가 10...</a>
-- <a href="http://kor.theasian.asia/archives/414998">[오늘의 신문] 국민소득 4만달러 눈앞인데…청년들은 세끼부터 줄였다</a>
-- <a href="https://view.asiae.co.kr/article/2026090811190137610">&quot;금리 5%, 계좌 다 녹는다&quot; 개미들 덜덜 떠는데…&#x27;웃는 종목&#x27; 따로 있다...</a>
-- <a href="https://www.womaneconomy.co.kr/news/articleView.html?idxno=258491">[넥스트-샷] 휴장 끝나자 유가 98달러···월가 다시 &#x27;인플레 공포&#x27;</a>
+- <a href="https://www.dt.co.kr/article/12083149?ref=naver">AI가 뒤집은 반도체 판…메모리, 매출 절반 넘는 ‘왕좌’</a>
+- <a href="https://biz.heraldcorp.com/article/10868404?ref=naver">유가 100달러 돌파·美국채금리 급등…뉴욕증시 사흘째 하락[투자360]</a>
+- <a href="https://www.newsis.com/view/NISX20260910_0003783472">[오늘의 증시]코스피 7000선 지켜낼까…유가·美 국채금리 상승 &#x27;부담&#x27;</a>
+- <a href="https://www.newspim.com/news/view/20260909001153">수출실적 부풀린 &#x27;부정 상장·보조금 편취&#x27; 차단...정부, 특별수사단 가...</a>
+- <a href="https://www.ebn.co.kr/news/articleView.html?idxno=1723687">SK하이닉스 ADR 7% 폭등 &#x27;신고가&#x27;…메모리 슈퍼사이클 기대 커졌다</a>
+- <a href="https://www.smartbizn.com/news/articleView.html?idxno=153509">7000선 되찾은 코스피, &#x27;1만피&#x27; 기대감도···반도체 효과 덕?</a>
+- <a href="http://www.economytalk.kr/news/articleView.html?idxno=424022">2차 국민성장펀드 30일 나온다…서민 물량 확대에 청년 참여 더 늘까</a>
 
 🇺🇸 해외 증시
-- <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjJnTmRnVFdEa1ZLRHBsdDVpZlBxU2NLaDROOU1sVkROQUR5X2JKSVcxTTJ2dE1DUzNTOTYxWDRDNVlOeXg3SGRBU0tJLXRTckJ0dzR0cEhIVS01LWNqeUlPN040Zno4UVI3Mnc0Yjh2QjBWQXJCbkxJYTlfcEk2MGE4WndsUDNCM2JiY3MyTDFlQVhYdV9vOTlnd3ZYTEoyRjE1bDdpRGxzTjVnQzJySEtnUGpkaWlEckZfNXlpZm1zdw?oc=5">2026년 9월 8일 증시: 다우 620포인트 하락, 3주 만에 최악의 하루 기록; 유가 상승이 인플레이션 우려 재점화시키며 S&amp;P 500과 나스닥도 하락; 브렌트유 배럴당 100달러 육박</a>
-- <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXh4WF91UXlEb2c0R1QyMHM2aDY4ZnN2dW1xb1VicUtrQzhLUXlxbEF0aUhIdFZ3VnEtLU0zWlo1clRiR2hHRDdmRnpHZTh1a3FFZENBRmQzYTNqUC1qWGNVQVRnTHpOOEVrNllUYzhnSUlYdzZuUTEyT2xuVlNxcTRvd09Uc0o4ci1HaA?oc=5">주요 인플레이션 데이터 발표 앞두고 중동 긴장이 유가 랠리 촉발하며 S&amp;P 500과 다우지수 하락 마감 — META, QCOM, BE, AMZN, AVGO 주목</a>
-- <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmdaT3E5TjNKcU53Z0FXbDRKeGl0a2s5ZFFwNUVyaGFCUE1pODBBWU03REFMYzJyR2VhNWxzWDdTU09VdTFWVENmVzZNV2stYW11clZiNTVXRG8yQkVJRTZyZmJodk44Vl96bzd5OFRtck4wQXFWYlRSN29aRG4tZkk4WUlaSURDRUVyWWU4XzNjWUphdlRzNWljYw?oc=5">곧 발표될 인플레이션 데이터가 연준의 조기 금리 인상 여부를 결정할 수 있어 월스트리트가 긴장하고 있다</a>
-- <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5">UBS, 강력한 고용 보고서 발표 후 2026년 연준 금리 두 차례 인상 전망</a>
-- <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5">주식 시장 투자자들은 연준으로부터 경고를 받았다. 역사는 다음에 이런 일이 일어날 것이라고 말한다.</a>
-- <a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxOVkNzNnBtNTl6TUduOHFLWTFEWlZ4UG5kTEY1bWVrMVp2MzFUTnhwaFdJSkE0aG1GWm1lOHJxd3lXcHFOLUlRMV9fVjFPVGROa2oyZGdZLWdUdUhldlU2NHh4TW1EcE8ySGZ5SDZhRkdUOVZaWVRFeDhZa0gyMWZIVnktSWlEUjNfaUVuTDh5YnBDMW93RXZDdEhGMVdrQVp0SGJUdmhzVXEwSE03OTczZWtBMzJXd2V5SktpVUVDUjRjWGtHUHdBdER5dHpqT1BDS0lub3RzemdEZ2pkdW9mZHNnTUpieHByNWFad0FLQ0hyVEJaME1qWHZXTDZyYVct?oc=5">OpenAI의 아스트라 모델 출시 후 AI 관련주 급등</a>
-- <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTnd3X0o5TTFZalJFRlp1NnFKMzByalk4ZUw5QjdyTm4zWDdhZ3R6N2hGdDVPLXp3a1cxemdRaGE2TGYyVGQtTVFiVjlKX0RnbWZmdG53dlkyWEYwQ2hDcV9lR2V1VVVtejhCaDhyeDJ3YnhkWGpkSlBSZnRNZlJpOUtycWMyQ1M4WVlnZVQwbU9QZDZTMlhhNDJIUXk0Y0dRSGxNdzBib2lLUHRnYTNRQzM1UWdLYlQ2TlY0Mi1XamZOYmJZQVd3dGNjVEZrNkJ3TkRmMmVSR2JJNm56eUdBdXZ3?oc=5">S&amp;P 100 ETF, 나이키와 콜게이트를 매각하고 AI 주식 4개 편입. 당신의 포트폴리오에 미치는 영향은?</a>
+- <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5">오늘 증시: 10년물 국채 금리 수년 만에 최고치 기록; 유가 100달러 육박 — 실시간 업데이트</a>
+- <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWxpczY3bGZzSFNMcjk1eWprR200TG1ObXlmNWFPN3l0SWdNUldtdkxucEJOOWFFMC1BVU9TNkRBT3JhbjRYcDg5YTR5OFk4VVRhUEdyNGM5RVZ0WndMaXlYSDlhYUlibGVyd28tNkpBMVFfVG1BNTc4ZTVkYnh4NHVMaVVRQlEzSUxDM0phYzdKMmp5aXZrdFo1ZE53eHF2UnhwUmRNS3h5Qk11ZkhV?oc=5">유가, 국채 금리 상승 속 증시 하락세 지속; 다음은 주요 인플레이션 데이터</a>
+- <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5">연준, 2026년 남은 기간 금리 동결 유지; 최소 한 번의 인상 전망 분석가 증가: 로이터 설문조사</a>
+- <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzlCdWxfYThSbXUxUUdCVXlIeUlZbkg2Z2tpellyNDVfT283TF9pbWJkbTNTMy1pRThXdlVYS3Y5N0V2M2R0QndXc2V5ZW53RTJJM2pZUDF2NFJlVUV2YWNqV3U1Ymh5Q0d4bG5RT1JTZXQyRFF3bWNmZGFBX0RnVEluRzF0TWVjTlZCNm1qTzJ2QQ?oc=5">연방준비제도: 강력한 고용과 CPI 리스크 – BNY</a>
+- <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0t1NzNlSkJ3cmwwNXk1ZnZCa3dMRG10UWExRGN6bjlmZHl6UjQxYWpteklWemkzSEl3eFphclZyZW0wUncwNmtlajNxRVZ2c0lEWGMtMDlER190eThSWFd6bW5qSnVraFhLZWRzUUdHdEU1djdkSVF1a2xSSkhPVkxPOTJpYkVjRHZodEc2NUgweWFwam5oVEZjZ0lrcHZVXzlJTVR6Z1JaRkowMnhN?oc=5">AI 붐, 올해 S&amp;P 500 실적 성장률 32%까지 끌어올릴 전망</a>
+- <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnZtUWZVZ1dQMWliYjNvSUY2NkgtUzI5S2xycEQyUjdQN2NJMjRQNUpSam1TTXRuanVfWG5ad3l3UjlobGwybEFYZXNDSk1DZHd5S1lvRW1hRVI4Uk5Gc0hpeEJSUFNjQVJQdVZpSk5ncjZ2dlBvSGZ0Z2IzNFBaWA?oc=5">앤트로픽의 충격 발표, AI 주식 — 그리고 인류에 대한 우려 증폭</a>
+- <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5">월스트리트의 새 AI 에이전트 낙관론에 메타 주식 급등</a>
 
 📰 정치/사회
-- <a href="https://www.nocutnews.co.kr/news/6574693?utm_source=naver&amp;utm_medium=article&amp;utm_campaign=20260909080052">노동부 &quot;AI시대 새 사회계약 필요&quot;…반도체 성과 분배 논의 판 깐다</a>
-- <a href="https://www.edaily.co.kr/News/Read?newsId=02686326645578480&amp;mediaCodeNo=257&amp;utm_source=naver&amp;utm_medium=referral&amp;utm_campaign=news_syndication&amp;utm_content=original_article">대기업 &#x27;초과이윤 분배&#x27; 정책 첫걸음…녹서 논의체 출범</a>
-- <a href="https://www.banronbodo.com/news/articleView.html?idxno=32968">[전규열의 경제INSIGHT] 노란봉투법 6개월, 산업현장 혼선 줄일 보완책 ...</a>
-- <a href="https://www.g-enews.com/view.php?ud=202609081822228220fda4f5ab74_1">후티, 사우디 에너지 시설 공습…국제 유가 6주 내 최고 치솟아</a>
-- <a href="https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800322.html">건보료 동결하고 &#x27;퍼주기&#x27; 계속 … 지역·필수의료 살릴 재정 남겠나 [박...</a>
-- <a href="https://www.hani.co.kr/arti/economy/economy_general/1276918.html">[속보] 8월 취업자 18만4천명↑…청년고용률 28개월 연속 하락</a>
+- <a href="https://magazine.hankyung.com/business/article/202609032674b">9월 FOMC 인상? 아직 가봐야 한다 [베스트 애널리스트 추천 전략]</a>
+- <a href="http://www.newsroad.co.kr/news/articleView.html?idxno=64066">유가 100달러·미 10년물 4.85%…뉴욕증시, 사흘 연속 흔들렸다</a>
+- <a href="http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&amp;news_seq_no=5218228">이 대통령 &quot;국가간 대립 격화…전쟁 가능성 커져 걱정&quot;</a>
+- <a href="https://www.newsis.com/view/NISX20260910_0003783449">김정은, 北 정권수립일 행사 참석…&quot;해외군사작전 참전 병사에 경의&quot;</a>
+- <a href="https://news.jtbc.co.kr/article/NB12317645?influxDiv=NAVER">파병 전제 아니라지만…정부, 사실상 실무 수순 밟기?</a>
+- <a href="https://www.tjb.co.kr/news05/bodo/view/id/103435">李대통령 &quot;헌법상 임기 제한, 정상외교 서둘러야&quot;…연임 개헌 논란에 첫...</a>
